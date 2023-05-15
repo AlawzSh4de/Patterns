@@ -1,0 +1,8 @@
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\bin\Debug\Abstract.exe
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\obj\Debug\Abstract.exe
+C:\Users\Alawz\source\repos\technology\Patterns\Abstract\obj\Debug\Abstract.pdb

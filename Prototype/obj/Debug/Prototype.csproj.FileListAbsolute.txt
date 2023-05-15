@@ -1,0 +1,8 @@
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Alawz\source\repos\technology\Patterns\Prototype\obj\Debug\Prototype.pdb
